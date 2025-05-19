@@ -1,5 +1,3 @@
-![](https://github.com/grtlr/github-stats/blob/master/generated/overview.svg) ![](https://github.com/grtlr/github-stats/blob/master/generated/languages.svg)
-
 ## Hi there 👋
 
 I am a consulting software engineer and research scientist. I develop hand-tailored visualization systems that help my clients make sense of complex data and machine learning models. I'm based in Germany and I have a Ph.D. in computer science. You can also check out my [CV / Résumé](https://jgoertler.com/cv_jgoertler.pdf) for more information.
